@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "a6c849ddc9d89755",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e0c8bdbc7c39e78",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "cv-report/Report.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cc7c94200b22f1b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "18be79c6ff1bd473",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17cf57b380da0259",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "01d8c98e11bd4986",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cc4676d46bf89f80",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d50364015dd6c55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a38e749fc23b6be",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "cv-report/Report.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2e0c8bdbc7c39e78",
+  "lastOpenFiles": [
+    "cv-report/Report.md",
+    "results/train-chamfer.jpg",
+    "cv-report/arch-1.png"
+  ]
+}

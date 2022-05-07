@@ -1,0 +1,10 @@
+include 'configs/common.gin'
+
+GraphX.name = 'ICCV-graphx-conv-up-final'
+GraphX.img_enc = @cnn18_enc
+GraphX.pc_enc = @pc_enc
+GraphX.pc_dec = @pc_upresgraphxdec
+GraphX.adain = True
+GraphX.projection = True
+GraphX.n_points = 250
+GraphX.checkpoint_folder = None
